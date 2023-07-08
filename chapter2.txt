@@ -1,1 +1,2 @@
 Hi Iam javascript
+OOPS is the main feature of javascript. It can also be used for both front-end and back-end language.
